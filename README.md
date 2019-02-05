@@ -6,4 +6,7 @@ For details, please check the final report.
 
 ![alt text](https://github.com/Line-Yin/Self-Driving-Car/blob/master/straight.jpg)
 ![alt text](https://github.com/Line-Yin/Self-Driving-Car/blob/master/stop.jpg)
+
+Here is the robot.
+
 ![alt text](https://github.com/Line-Yin/Self-Driving-Car/blob/master/self-driving-car.jpeg)
