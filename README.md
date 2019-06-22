@@ -9,4 +9,5 @@ For details, please check the final report.
 
 Here is the robot.
 
-![alt text](https://github.com/Line-Yin/Self-Driving-Car/blob/master/self-driving-car.jpeg)
+<img src="https://github.com/Line-Yin/Self-Driving-Car/blob/master/self-driving-car.jpeg" alt="car"
+	title="car" width="50%" height="50%"/>
